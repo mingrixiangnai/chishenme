@@ -21,3 +21,6 @@
 
 *   本插件需要 AstrBot 机器人环境。
 *   请确保 AstrBot 机器人已正确安装并配置。
+
+## 参考
+*   https://github.com/MashiroSaber03/genshinimpact
