@@ -1,12 +1,8 @@
-import logging
 import random
-import requests
 from astrbot.api.star import Context, Star, register
 from astrbot.api.event import filter, AstrMessageEvent, MessageEventResult
 from astrbot.api.event.filter import event_message_type, EventMessageType
 
-
-logger = logging.getLogger(__name__)
 
 text_list = [
     "番茄鼻屎",
@@ -47,6 +43,7 @@ text_list = [
     "番茄炒屁眼",
     "番茄炒头发",
     "番茄炒耳屎",
+    "番茄炒月经",
     "吃你妈，吃屎去吧！"
 ]
 
