@@ -55,7 +55,7 @@ class GenshinImpactPlugin(Star):
     @event_message_type(EventMessageType.ALL)
     async def on_message(self, event: AstrMessageEvent) -> MessageEventResult:
         """
-        当消息中包含“吃什么”时随机发送一条圣经。
+        当消息中包含“吃什么”时随机发送上面的一条消息。
         """
         msg_obj = event.message_obj
         text = msg_obj.message_str or ""
