@@ -1,3 +1,5 @@
+# 主站https://nn0721.icu
+
 # AstrBot 吃什么插件
 
 ## 简介
